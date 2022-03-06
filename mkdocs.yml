@@ -1,0 +1,71 @@
+site_name: Halotroop.com
+repo_url: https://github.com/halotroop2288/halotroop2288.github.io.git
+theme:
+  name: material
+  favicon: images/avatar.png
+  icon:
+    repo: fontawesome/brands/github
+  logo: images/avatar.png
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: deep purple
+      accent: red
+      toggle:
+        icon: material/weather-night
+        name: Put on sunglasses
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: deep purple
+      accent: red
+      toggle:
+        icon: material/weather-sunny
+        name: Burn your retinas
+  font:
+    text: Poppins
+    code: Jetbrains Mono
+  features:
+    - navigation.instant
+    - navigation.tabs
+    - navigation.indexes
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.details
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.keys
+  - pymdownx.snippets
+  - pymdownx.tasklist
+  - pymdownx.keys
+  - pymdownx.magiclink:
+      user: halotroop2288
+      repo: halotroop2288.github.io
+  - pymdownx.progressbar:
+      progress_increment: 1
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+      options:
+        custom_icons:
+          - extras
+  - pymdownx.highlight:
+      anchor_linenums: true
+nav:
+  - Home: index.md
+  - Caroline:
+    - caroline/index.md
+    - Projects:
+      - caroline/projects/index.md
+      - Dead: caroline/projects/dead/index.md

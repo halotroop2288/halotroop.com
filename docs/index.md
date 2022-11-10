@@ -1,12 +1,13 @@
 !!! warning "This website is under construction!"
-    I don't have a lot of time to work on this, between projects.
+    I don't have a lot of time to work on this, between work and depression.
 
 # Welcome to Halotroop.com
 
 Hi, I'm Caroline, and this is my website. :caroline-smile:
 
-I'm a virtual sandbox enthusiast. I mod games (mostly Minecraft),
-and design my own games sometimes.
+[I used to be a virtual sandbox enthusiast. I modded games (mostly Minecraft),
+and designed my own games sometimes.
+But I never found any happiness in it.](/caroline/projects/dead/#Retirement_from_programming)
 
 This website is all about me, my organization, and our projects.
 
@@ -29,6 +30,7 @@ I do not release any of the content here under any sort of open-source license.
 This includes the articles, images, and other original assets.
 
 ### Exceptions
+
 My original scripts (JavaScript files), like most of my other projects,
 are released under the MIT license, and are free to copy and use anywhere.
 They will be labeled as such in the header.

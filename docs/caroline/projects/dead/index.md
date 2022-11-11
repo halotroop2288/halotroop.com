@@ -25,5 +25,5 @@ I never felt that I had the skill, or the creativity to come up with my own idea
 !!! info "Dead Projects"
     ??? info "Minecraft Mods"
         - [Ex-Features](/caroline/projects/dead/ex-features)
-        - [More Creeps and Weirdos](/caroline/projects/morecreeps)
-        - [Mo' Creatures](/caroline/projects/mocreatures)
+        - [More Creeps and Weirdos](/caroline/projects/dead/morecreeps)
+        - [Mo' Creatures](/caroline/projects/dead/mocreatures)

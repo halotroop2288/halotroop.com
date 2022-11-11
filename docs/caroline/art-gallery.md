@@ -11,50 +11,61 @@ and there used to be a lot fewer participants,
 to the point where it was almost a guaranteed win.
 I still participate in these sometimes, but it's much less common to win.
 
-### Pre-design
+**Pre-design**
 
 This art is from before I had a reference!
 The art didn't follow a specific design, just what I told Zaezar the character looked like.
 
-#### 2017
+### 2017
 
 ![Xmas Gift Art](/caroline/images/scarf_by_zaezar.png "Caroline in a big scarf - December 2017")
 
 This is the first piece of art I ever commissioned.
 I wish I had the foresight to wait for an official reference.
 
-![Art Block](/caroline/images/head_tap_by_zaezar.gif "Caroline, tapping her head - December 2017")
+![Art Block](/caroline/images/head_tap_by_zaezar.gif "Caroline, animated tapping her head - December 2017")
 
-### Post-design
+---
+
+**Post-design:**
 
 In 2018, I actually commissioned a reference sheet for Caroline and thus she finally had an official design!
 
-#### 2018
+### 2018
 
 If you ever make art of Caroline, you should use this reference:
 ![Reference](/caroline/images/reference_by_zaezar.png "Caroline's reference sheet - May 2018")
 
 ![Random Freebie](/caroline/images/sept_18_freebie_by_zaezar.png "Caroline, leaned over with her arms back - September 2018")
 
-#### 2019
+### 2019
 
-!['Wat' face](/caroline/images/wat_by_zaezar.png "Caroline's 'Wat' face - March 2019")
+[!['Wat' face](/caroline/images/wat_by_zaezar.png "Caroline's 'Wat' face - March 2019")](https://www.deviantart.com/zaezardraws/art/Freebles-from-March-791338425)
+
+### 2020
+
+Caroline dressed as Bat-Girl for Hallowe'en
+and it was the only costume she wore for the next few years.
+
+[![BatCatGirl](/caroline/images/batcatgirl_by_zaezar.png "Caroline dressed as Bat Girl")](https://www.deviantart.com/zaezardraws/art/Costume-Party-Freebs-858385127)
 
 ## Art by [FelisRandomis](https://www.furaffinity.net/user/felisrandomis/)
 
+### 2018
+
 This is some art I commissioned just so I could see some more expressions from my fursona.
-![Headshots](/caroline/images/headshots_by_felis.png "Three headshots: Angry, Sad, and Blushing with rolled back eyes - July 2018")
+[![Headshots](/caroline/images/headshots_by_felis.png "Three headshots: Angry, Sad, and Blushing with rolled back eyes - July 2018")](https://www.weasyl.com/~felisrandomis/submissions/1661213/caroline-headshots)
 
 This one was done only on a Telegram channel that Felis used to run.
 ![Balloon Animal](/caroline/images/bloon_by_felis.png "Caroline as a balloon animal - April 2019")
 
-
+---
 
 ## Art by [VI Felian](https://www.furaffinity.net/user/vifelian/)
 
-#### 2020
+### 2020
 
-![Kiykiyy](/caroline/images/kiykiyy_by_felian.png "Caroline in sportswear - February 2020")
+![Kiykiyy](/caroline/images/kiykiyy_by_felian.png "A three-quarters sketch of Caroline in sportswear - February 2020")
 
 The avatar shown on this website was created by VI Felian, aka Parasyminus.
 He is the artist that I most recommend, if you are looking for any for yourself!
@@ -62,15 +73,18 @@ He is the artist that I most recommend, if you are looking for any for yourself!
 Here is the full version of it:
 ![Mowmow](/caroline/images/mowmow_by_felian.jpg "A full-body pinup - March 2020")
 
+---
 
 ## Art by [Galinn](https://twitter.com/ArtsGalinn)
 
-#### 2022
+### 2022
 
 Apparently I was the first ever follower of Galinn on Twitter.
 So they made me this as a "thank you" at their 2,000 follower milestone!
 
 ![The First Follower](/caroline/images/first_follower_by_galinn.png "A beautiful soft-shaded bust - July 2022")
+
+---
 
 ## Removals
 

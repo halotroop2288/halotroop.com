@@ -1,5 +1,5 @@
 site_name: Halotroop.com
-repo_url: https://github.com/halotroop2288/halotroop2288.github.io
+repo_url: https://github.com/halotroop2288/halotroop.github.io
 theme:
   name: material
   favicon: images/avatar.png
@@ -70,4 +70,6 @@ nav:
     - Fursona: caroline/fursona.md
     - Projects:
       - caroline/projects/index.md
-      - Dead: caroline/projects/dead/index.md
+      - Dead:
+        - caroline/projects/dead/index.md
+        - Mo' Creatures: caroline/projects/dead/mocreatures.md

@@ -6,13 +6,13 @@ some very short-sighted developers later on) to the Fabric modding environment.
 
 <!-- TODO Insert backstory here. -->
 
-*[Apron]* was originally intended to only offer a compatibility layer with API mods of the time.
+[Apron] was originally intended to only offer a compatibility layer with API mods of the time.
 This would have allowed mods to interact with the APIs themselves, and nothing else!
 Not even the game itself would have been accessible.
 
 Of course, this would not have helped with anything by itself.
 
-So, soon enough, [Cat Core] joined the project and offered help in the form of [Mod Remapping API] integration,
+So, soon enough, [Cat Core] joined the project and offered help in the form of [Mod Remapping API] integration.<br/>
 MRAPI is a mod that can help other mods function in different mappings by translating calls using obfuscated names into calls
 using any other name, like in our case: Fabric intermediary names!
 

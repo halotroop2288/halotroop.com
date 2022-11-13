@@ -66,8 +66,17 @@ nav:
   - Home: index.md
   - Caroline:
     - caroline/index.md
-    - Art Gallery: caroline/art-gallery.md
-    - Fursona: caroline/fursona.md
+    - Characters:
+      - Caroline:
+        - caroline/characters/caroline/index.md
+        - Art Gallery: caroline/characters/caroline/art-gallery.md
+      - CJ:
+        - caroline/characters/cj/index.md
+        - Art Gallery: caroline/characters/cj/art-gallery.md
+      - Violet:
+        - caroline/characters/violet/index.md
+      - Ashley:
+        - caroline/characters/ashley/index.md
     - Projects:
       - caroline/projects/index.md
       - Dead:

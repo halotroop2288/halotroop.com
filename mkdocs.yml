@@ -62,8 +62,6 @@ markdown_extensions:
           - extras
   - pymdownx.highlight:
       anchor_linenums: true
-plugins:
-    - mkdocs-video
 nav:
   - Home: index.md
   - Caroline:
@@ -84,3 +82,5 @@ nav:
       - Dead:
         - caroline/projects/dead/index.md
         - Mo' Creatures: caroline/projects/dead/mocreatures.md
+    - Videos:
+      - caroline/videos/index.md

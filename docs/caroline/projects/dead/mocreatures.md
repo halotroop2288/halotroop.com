@@ -40,13 +40,13 @@ Which will eventually have the option of implementing into vanilla mobs with the
 
 Ants wander around and look for food to pick up, and then carry it around wherever they go.
 
-![Ant](/caroline/projects/dead/images/Ant.png)
+![Ant](images/Ant.png)
 
 I had planned on making them follow each other around and bring food back to a nest.
 
 ### [Birds](https://mocreatures.fandom.com/wiki/Bird)
 
-![Generic Bird](/caroline/projects/dead/images/Bird.png)
+![Generic Bird](images/Bird.png)
 
 Birds are like parrots, but uh... different-looking?
 They each have their own ambient noise and can be tamed.

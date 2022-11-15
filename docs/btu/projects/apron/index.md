@@ -18,6 +18,9 @@ using any other name, like in our case: Fabric intermediary names!
 
 [Cat Core] is now in charge of [Apron] as I stepped down from the project when I decided to stop programming.
 
+If you'd like to chat about Apron (or indeed any other Minecraft compatibility layer),
+join the [Fabric Compatibility Layers Discord](https://discord.gg/dy4tgDAmeR)!
+
 <!-- Static Links -->
 [Apron]:https://github.com/BetterThanUpdates/Apron
 [Cat Core]:https://github.com/arthurbambou

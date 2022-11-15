@@ -62,6 +62,8 @@ markdown_extensions:
           - extras
   - pymdownx.highlight:
       anchor_linenums: true
+plugins:
+    - mkdocs-video
 nav:
   - Home: index.md
   - Caroline:

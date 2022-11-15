@@ -1,6 +1,6 @@
 # Caroline's Art Gallery
 
-This is a gallery of images of my [fursona, Caroline](/caroline/fursona). Enjoy!
+This is a gallery of images of [my fursona, Caroline](/caroline/characters/caroline). Enjoy!
 
 Alt-text note: Any image not fully described is probably a flat-shaded or unshaded head shot or bust.
 
@@ -42,7 +42,7 @@ In 2018, I actually commissioned a reference sheet for Caroline and thus she fin
 If you ever make art of Caroline, you should use this reference:
 [![Caroline's reference sheet](images/reference_by_zaezar.png "Reference - May 2018")](https://www.deviantart.com/zaezardraws/art/Halo-Ref-744603508)
 
-[![Two head shots, the first of Caroline sticking her tongue out, the second with her staring diagonally up into space](images/blep_and_shine_by_zaezar.png "Blep and Shine - June 2018")](https://www.deviantart.com/zaezardraws/art/Patreon-June-Freebie-stream-2-751157931)
+[![Two headshots, the first of Caroline sticking her tongue out, the second with her staring diagonally up into space](images/blep_and_shine_by_zaezar.png "Blep and Shine - June 2018")](https://www.deviantart.com/zaezardraws/art/Patreon-June-Freebie-stream-2-751157931)
 
 ??? message "Personal Edit"
     These are some quick edits I made after Zaezar posted these.<br/>
@@ -97,7 +97,7 @@ and it was the only costume she wore for the next few years.
 ### 2018
 
 This is some art I commissioned just so I could see some more expressions from my fursona.
-[![Three head shots: Angry, Sad, and Blushing with rolled back eyes](images/headshots_by_felis.png "Head shots - July 2018")](https://www.weasyl.com/~felisrandomis/submissions/1661213/caroline-headshots)
+[![Three headshots: Angry, Sad, and Blushing with rolled back eyes](images/headshots_by_felis.png "Headshots - July 2018")](https://www.weasyl.com/~felisrandomis/submissions/1661213/caroline-headshots)
 
 This one was done only on a Telegram channel that Felis used to run.
 ![Caroline as a balloon animal](images/bloon_by_felis.png "Bloon - April 2019")
@@ -129,7 +129,7 @@ This is the first art VI Felian (aka Parasyminus) ever drew for me. I love his s
 Even the avatar shown on this website was created by Felian.
 
 Here is the full version of it:
-[![A shaded full-body pinup of Caroline](/images/mowmow_by_felian.jpg "Mowmow - March 2020")](https://twitter.com/Felians_art/status/1238400130493095936)
+[![A shaded full-body pinup of Caroline](images/mowmow_by_felian.jpg "Mowmow - March 2020")](https://twitter.com/Felians_art/status/1238400130493095936)
 
 He is the artist that I most recommend, if you are looking for any for yourself!
 

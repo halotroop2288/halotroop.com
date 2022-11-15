@@ -38,3 +38,8 @@ They will be labeled as such in the header.
 Any assets imported from elsewhere retain their original license,
 and if outside contributors add their own pages or scripts,
 they may include a license in the header.
+
+<!-- Mastodon Verification -->
+
+<a rel="me" href="https://tech.lgbt/@halotroop2288"></a>
+<a rel="me" href="https://meow.social/@halotroop2288"></a>

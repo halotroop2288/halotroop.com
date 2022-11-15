@@ -27,7 +27,7 @@ As far as his personality goes, I have no idea. Caroline is mostly a self-insert
 
 We can see that he is portrayed as a goofball in at least one of his portraits, pulling his drawstrings closed over his face.
 
-[![A flat-color doodle of CJ, seen in a wrinkled grey hoodie with messy hair, winking at the viewer](/caroline/cj/images/cj_by_zaezar.png "CJ - Zaezar, June 2017")](/caroline/characters/cj/art-gallery)
+[![A flat-color doodle of CJ, seen in a wrinkled grey hoodie with messy hair, winking at the viewer](images/cj_by_zaezar.png "CJ - Zaezar, June 2017")](/caroline/characters/cj/art-gallery)
 
 ---
 

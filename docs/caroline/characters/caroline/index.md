@@ -118,6 +118,31 @@ So I always insert this same character into any given scenario.
 !!! info "Continue"
     :arrow_right: Continued in [Basuoland: Characters](/caroline/projects/basuoland#characters).
 
+## The character designer
+
+Up to this point, I still did not have a concrete representation of my fursona.
+Some people in the furry community offered to draw her for me, but I never had a clear idea
+of what she should look like.
+
+Enter: [Zaezar](https://zaezardraws.com), the profession character designer, and furry artist.
+
+I discovered Zaezar on YouTube, where he had a series of tutorials about drawing anthro characters.
+I followed him on Twitch for some time, and became a regular member of his community.
+
+One day, I came into a larger-than-usual amount of money and decided (regrettably) to commission
+him with it. (The reason for the regret is not because of the quality of the work, but
+because I should not have spent that money. It was for food that month, as I later found out.)
+
+He drew this amazing reference image for my character, and I was super excited to see it.
+He drew it oh his live stream, so I got to watch and weigh in on every detail. He helped me
+decide which features were good to keep, what should be added to make it more interesting,
+and which ones should be changed, to look nicer.
+
+In the end, he came up with this, and I love it:
+![Caroline's reference sheet by Zaezar](images/reference_by_zaezar.png)
+I haven't been active in his community for a while, but I still love his art.
+
+
 <!-- Static Links -->
 
 [CJ]:/caroline/characters/cj

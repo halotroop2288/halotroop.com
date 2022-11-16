@@ -3,13 +3,7 @@
 
 # Welcome to Halotroop.com
 
-Hi, I'm Caroline, and this is my website. :caroline-smile:
-
-[I used to be a virtual sandbox enthusiast. I modded games (mostly Minecraft),
-and designed my own games sometimes.
-But I never found any happiness in it.](/caroline/projects/dead/#Retirement_from_programming)
-
-This website is all about me, my organization, and our projects.
+This website is all about [Caroline](/caroline), our organization, and [our projects](/projects).
 
 Up at the top you'll find navigation to general topics.
 Over on the left you'll be able to navigate to specific pages.

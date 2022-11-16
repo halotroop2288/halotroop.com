@@ -2,7 +2,7 @@
 
 I make videos sometimes!
 
-Instead of hosting them all on YouTube, I'm gonna host a backup here since I'm already paying for Git LFS!
+Instead of hosting them all [on YouTube](https://www.youtube.com/channel/UCMR7J9btPbUCeibSFT0spoA), I'm gonna host a backup here since I'm already paying for Git LFS!
 
 # Speedruns
 
@@ -40,7 +40,7 @@ using the simple any% Major Glitches route.<br/>
 His final time is 4 minutes and 13 seconds, which is actually faster than my PB!
 Good job, dad.
 
-I uploaded this run to [YouTube]() to show how good my dad can be at video games.
+I uploaded this run to [YouTube](https://www.youtube.com/watch?v=aGeKC2xz5iI) to show how good my dad can be at video games.
 
 ## A Link to the Past Any% (Major Glitches) - 3:11
 

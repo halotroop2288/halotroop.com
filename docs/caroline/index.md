@@ -1,12 +1,16 @@
 # Caroline
 
-Hi, I'm Caroline. You may have heard this is my website! It's true!
+Hi, I'm Caroline, and this is my website. :caroline-smile:
 
 I'm a [non-binary trans woman](https://pronouns.page/@halotroop2288)
 who used to make Minecraft mods, and (tried) to make video games.
 
 My [pronouns] are She/Her.
 But I'd prefer if you'd just *not* refer to me indirectly, where possible.
+
+[I used to be a virtual sandbox enthusiast. I modded games (mostly Minecraft),
+and designed my own games sometimes.
+But I never found any happiness in it.](/caroline/projects/dead/#Retirement_from_programming)
 
 This section is about me, myself, and I. A sort of introduction to me.
 In the following sections, you can find out more about my life by

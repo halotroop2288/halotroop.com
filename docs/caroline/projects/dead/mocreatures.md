@@ -1,4 +1,4 @@
-# Mo' Creatures
+# Mo' Creatures Refabricated
 
 [Mo' Creatures](https://www.mocreatures.org/) was a mod by Dr. Zhark
 that added lots of animals and other creatures to the game.<br/>

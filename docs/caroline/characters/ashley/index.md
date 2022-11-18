@@ -29,5 +29,5 @@ While I can't show her, I will describe her instead.
 <!-- Static Links -->
 
 [Basuoland]:/caroline/projects/basuoland
-[Caroline]:/caroline/characters/caroline
-[Violet]:/caroline/characters/violet
+[Caroline]:../caroline
+[Violet]:../violet

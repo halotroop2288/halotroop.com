@@ -1,9 +1,9 @@
 # CJ Bell
 
-CJ Bell is the more masculine alter-ego of [Caroline Joy Bell](/caroline/fursona).
+CJ Bell is the more masculine alter-ego of [Caroline Joy Bell](../caroline).
 
-He has his own [art gallery](/caroline/cj/art-gallery), but hasn't been developed as a character as well as [Caroline](/caroline/fursona)
-or gotten as much [art](/caroline/art-gallery) as her since she got an official reference sheet.
+He has his own [art gallery](art-gallery), but hasn't been developed as a character as well as [Caroline](../caroline)
+or gotten as much [art](../caroline/art-gallery) as her since she got an official reference sheet.
 
 ## Characteristics
 
@@ -27,7 +27,7 @@ As far as his personality goes, I have no idea. Caroline is mostly a self-insert
 
 We can see that he is portrayed as a goofball in at least one of his portraits, pulling his drawstrings closed over his face.
 
-[![A flat-color doodle of CJ, seen in a wrinkled grey hoodie with messy hair, winking at the viewer](images/cj_by_zaezar.png "CJ - Zaezar, June 2017")](/caroline/characters/cj/art-gallery)
+[![A flat-color doodle of CJ, seen in a wrinkled grey hoodie with messy hair, winking at the viewer](images/cj_by_zaezar.png "CJ - Zaezar, June 2017")](art-gallery)
 
 ---
 

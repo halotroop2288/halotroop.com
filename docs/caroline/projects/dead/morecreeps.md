@@ -1,9 +1,8 @@
 # More Creeps and Weirdos Refabricated
 
-This was an attempt to recreate the classic
-[Minecraft] mod,
+This was an attempt to recreate the classic [Minecraft] mod,
 [More Creeps and Weirdos](http://morecreeps.com)
-for [Fabric Mod Loader](https://fabricmc.net).
+for the [Fabric Mod Loader](https://fabricmc.net).
 
 **The [source code](https://github.com/halotroop2288/more-creeps-refabricated) is not public, for this project, unfortunately.**
 
@@ -39,9 +38,9 @@ Starting with the first release of the mod.
 
 This is about as far as I got.
 
-![Early Mummy Hitbox](./EarlyMummyHitbox.png "Mummy Hitbox")
-![Early Mummy demo](./EarlyMummy.png "Mummy")
-![Invisible Man](./InvisibleMan.png "Invisible Man")
+![Early Mummy Hitbox](images/EarlyMummyHitbox.png "Mummy Hitbox")
+![Early Mummy demo](images/EarlyMummy.png "Mummy")
+![Invisible Man](images/InvisibleMan.png "Invisible Man")
 
 <!-- Static Links -->
 

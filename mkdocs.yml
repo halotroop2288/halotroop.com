@@ -63,7 +63,13 @@ markdown_extensions:
   - pymdownx.highlight:
       anchor_linenums: true
 nav:
-  - Home: index.md
+  - Home:
+    - index.md
+    - Projects:
+      - projects/index.md
+      - Dead:
+        - projects/dead/index.md
+        - Fabricators' Construct: projects/dead/fconstruct.md
   - Caroline:
     - caroline/index.md
     - Characters:
@@ -77,10 +83,21 @@ nav:
         - caroline/characters/violet/index.md
       - Ashley:
         - caroline/characters/ashley/index.md
+      - Cara:
+        - caroline/characters/cara/index.md
+      - Samantha:
+        - caroline/characters/sam/index.md
     - Projects:
       - caroline/projects/index.md
+      - Basuoland: caroline/projects/basuoland.md
       - Dead:
         - caroline/projects/dead/index.md
+        - Ex-Features: caroline/projects/dead/ex-features.md
+        - More Creeps: caroline/projects/dead/morecreeps.md
         - Mo' Creatures: caroline/projects/dead/mocreatures.md
     - Videos:
       - caroline/videos/index.md
+  - Better Than Updates:
+    - btu/index.md
+    - Projects:
+      - Apron: btu/projects/apron/index.md

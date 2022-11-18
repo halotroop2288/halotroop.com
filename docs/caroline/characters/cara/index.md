@@ -13,11 +13,10 @@ I can't remember the middle or last name now. But I do remember making this char
 
 # Characteristics
 
-Here's what I can remember about Cara. She's basically just a hipster.
+Here's what I can remember about Cara. She's basically just a stereotypical hipster.
 
 - House cat
 - she/her
 - Favorite color: Pink
 - Wears red flannel
 - Likes to drink hot tea
-- 

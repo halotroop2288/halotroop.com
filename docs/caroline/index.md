@@ -2,24 +2,25 @@
 
 Hi, I'm Caroline, and this is my website. :caroline-smile:
 
-I'm a [non-binary trans woman](https://pronouns.page/@halotroop2288)
-who used to make Minecraft mods, and (tried) to make video games.
+I'm a non-binary trans woman
+who used to make Minecraft mods,
+and (tried) to make video games.
 
 My [pronouns] are She/Her.
 But I'd prefer if you'd just *not* refer to me indirectly, where possible.
 
-[I used to be a virtual sandbox enthusiast. I modded games (mostly Minecraft),
-and designed my own games sometimes.
-But I never found any happiness in it.](/caroline/projects/dead/#Retirement_from_programming)
+I am a virtual sandbox enthusiast.
+I used to mod games (mostly Minecraft), and designed my own games sometimes.
+But [I never found any happiness in it.](projects/dead/#Retirement_from_programming)
 
 This section is about me, myself, and I. A sort of introduction to me.
 In the following sections, you can find out more about my life by
 <!-- reading my [blog], -->
 checkout out [my fursona] and other characters,
-and reading about my [projects](/caroline/projects),
-both the alive, and the [dead](/caroline/projects/dead)!
+and reading about my [projects](projects),
+both the alive, and the [dead](projects/dead)!
 
-There's also an [art gallery](/caroline/art-gallery)
+There's also an [art gallery](art-gallery)
 of [my fursona]<!--, my [blog]-->
 and in case you want to chat, [here's a link](https://rvlt.gg/EmND69QW)
 to my [Revolt](https://revolt.chat) guild.
@@ -42,5 +43,5 @@ If none of that suits your fancy, you can still follow me on social media, below
 <!-- Static Links -->
 
 [blog]:/caroline/blog
-[my fursona]:caroline/fursona
+[my fursona]:/caroline/characters/caroline
 [pronouns]:https://pronouns.page/@halotroop2288

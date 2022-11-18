@@ -145,8 +145,8 @@ I haven't been active in his community for a while, but I still love his art.
 
 <!-- Static Links -->
 
-[CJ]:/caroline/characters/cj
-[Ashley]:/caroline/characters/ashley
-[Violet]:/caroline/characters/violet
-[Basuoland]:/caroline/projects/basuoland
+[CJ]:../cj
+[Ashley]:../ashley
+[Violet]:../violet
+[Basuoland]:../basuoland
 [DeviantArt]:https://www.deviantart.com/halotroop2288

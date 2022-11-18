@@ -8,10 +8,12 @@ It helped me develop stories for my characters,
 
 ## Characters
 
-
+<!-- TODO -->
 
 <!-- Static Links -->
 
 [Caroline]:/caroline/characters/caroline
 [Violet]:/caroline/characters/violet
 [Ashley]:/caroline/characters/ashley
+[Cara]:/caroline/characters/cara
+[Sam]:/caroline/characters/sam

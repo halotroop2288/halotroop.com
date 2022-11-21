@@ -130,8 +130,7 @@ I discovered Zaezar on YouTube, where he had a series of tutorials about drawing
 I followed him on Twitch for some time, and became a regular member of his community.
 
 One day, I came into a larger-than-usual amount of money and decided (regrettably) to commission
-him with it. (The reason for the regret is not because of the quality of the work, but
-because I should not have spent that money. It was for food that month, as I later found out.)
+him with it. (The money was only for food that month, as I later found out.)
 
 He drew this amazing reference image for my character, and I was super excited to see it.
 He drew it oh his live stream, so I got to watch and weigh in on every detail. He helped me
@@ -140,7 +139,39 @@ and which ones should be changed, to look nicer.
 
 In the end, he came up with this, and I love it:
 ![Caroline's reference sheet by Zaezar](images/reference_by_zaezar.png)
-I haven't been active in his community for a while, but I still love his art.
+
+## Characteristics
+
+- Angel cat
+- she/her
+- Red fur (#ce221c)
+- Dark red hair (#730e0a)
+- Has a blue streak in her hair (#4e1bec)
+- Has blue eyes (#522bff)
+- Eyes are lighter (#8266ff) in the center
+- Favorite color: purple (#601A6C)
+- Neutral good
+- Always wears a black collar (#1f1f1f) with a heart pendant
+- Heart pendant changes color based on mood,
+but you can use purple (#a700fd) as a default
+
+??? info "Dungeons and Dragons"
+    If Caroline were a 5th Edition DnD character, this would be her stats:<br/>
+
+    **[Caroline the Tabaxi](https://chicken-dinner.com/5e/5e-point-buy.html#tabaxi&NA&11&12&10&14&10&15&0&0&27&15&8&19&15&12&9&7&5&4&3&2&1&0&1&2&4&6&9&4&4&4&4&4&4)**
+
+      - **Race**: Tabaxi
+      - **Strength:** 11
+      - **Dexterity:** 14 (+2 racial bonus)
+      - **Constitution:** 10
+      - **Intelligence:** 14
+      - **Wisdom:** 10
+      - **Charisma:** 16 (+1 racial bonus)
+      - **Walking Speed:** 30 feet
+      - **Climbing Speed:** 20 feet
+      - **Languages:**
+        - Common
+        - Draconic (racial bonus)
 
 
 <!-- Static Links -->

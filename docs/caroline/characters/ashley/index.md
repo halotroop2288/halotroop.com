@@ -1,4 +1,8 @@
-# Ashley ... Bell
+---
+title: Ashley Bell
+description: Read all about my character Violet, youngest daughter of Caroline.
+authors: halotroop2288
+---
 
 Ashley was the third character I created for [Basuoland].
 The youngest daughter of *[Caroline]*, around 6 years old.

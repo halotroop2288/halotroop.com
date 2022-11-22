@@ -1,4 +1,8 @@
-# Basuoland
+---
+title: Basuoland
+description: Read about Basuoland, the setting of my planned RPG.
+authors: halotroop2288
+---
 
 Basuoland is an idea for a game I had a long time ago.
 I've always wanted to be a game developer, and this was my first attempt at creating one.

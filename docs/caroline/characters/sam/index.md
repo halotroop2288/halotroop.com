@@ -1,4 +1,8 @@
-# Samantha ... ...
+---
+title: Samantha ...
+description: Read about my character Sam, resident of Basuoland.
+authors: halotroop2288
+---
 
 Sam is a character that once upon a time had a somewhat thought-out backstory.
 This back-story was deleted as it was only posted in my archived Discord server,

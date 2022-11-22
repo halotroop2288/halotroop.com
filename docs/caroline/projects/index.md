@@ -1,4 +1,8 @@
-# Caroline's Projects
+---
+title: Caroline's Projects
+description: Check out my list of current projects
+authors: halotroop2288
+---
 
 This section of the website is about projects I (Caroline) have started
 with the intention of working on them alone.

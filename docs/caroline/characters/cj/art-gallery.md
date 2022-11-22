@@ -1,3 +1,10 @@
+---
+title: CJ's Art Gallery
+description: Check out this art of CJ!
+authors: halotroop2288
+         Zaezar
+---
+
 # CJ's Art Gallery
 
 This is a gallery of images of my fursona's masculine alter-ego [CJ] [Bell](/caroline/characters/cj).

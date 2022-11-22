@@ -1,4 +1,8 @@
-# Violet ... Bell
+---
+title: Violet Bell
+description: Read all about my character Violet, oldest daughter of Caroline.
+authors: halotroop2288
+---
 
 Violet is the second character I thought up, while creating [Basuoland].
 

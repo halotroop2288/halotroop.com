@@ -1,4 +1,8 @@
-# Cara M. M.
+---
+title: Cara M. M.
+description: Read about Cara, the blank slate character.
+authors: halotroop2288
+---
 
 Cara is a severely underdeveloped character I forced myself to make up
 when I realized I had only ever though of three original characters.

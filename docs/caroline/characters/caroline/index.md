@@ -1,12 +1,16 @@
-# Caroline Joy Bell (Character)
+---
+title: Caroline Joy Bell
+description: Read the backstory of my fursona, Caroline.
+authors: halotroop2288
+---
 
 Caroline, quite simply, is my fursona. She's been developing in my mind for quite some time.
 The earliest memories I have of developing her as a character were from when I was a pre-teen.
 
+## Adolescence
+
 My hormonal changes from my [first puberty](https://lexicon.library.lgbt/definitions/second-puberty/)
 played a large part in the development of her as a character.
-
-## Adolescence
 
 Caroline started out as what I liked to call my "ideal woman" back when I wasn't very
 in-touch with my identity. At the time, I didn't know my sexuality, didn't have a firm grasp
@@ -142,6 +146,8 @@ In the end, he came up with this, and I love it:
 
 ## Characteristics
 
+After all that, here's what we know about Caroline...
+
 - Angel cat
 - she/her
 - Red fur (#ce221c)
@@ -152,8 +158,7 @@ In the end, he came up with this, and I love it:
 - Favorite color: purple (#601A6C)
 - Neutral good
 - Always wears a black collar (#1f1f1f) with a heart pendant
-- Heart pendant changes color based on mood,
-but you can use purple (#a700fd) as a default
+- Heart pendant changes color based on mood, but you can use purple (#a700fd) as a default
 
 ??? info "Dungeons and Dragons"
     If Caroline were a 5th Edition DnD character, this would be her stats:<br/>

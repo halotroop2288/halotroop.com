@@ -1,6 +1,10 @@
-# CJ Bell
+---
+title: CJ Bell
+description: Read about CJ, the masculine alter-ego of Caroline.
+authors: halotroop2288
+---
 
-CJ Bell is the more masculine alter-ego of [Caroline Joy Bell](../caroline).
+CJ is the more masculine alter-ego of [Caroline Joy Bell](../caroline).
 
 He has his own [art gallery](art-gallery), but hasn't been developed as a character as well as [Caroline](../caroline)
 or gotten as much [art](../caroline/art-gallery) as her since she got an official reference sheet.
@@ -21,7 +25,6 @@ here's what we know about CJ:
 - ? chest
 - ? tail
 - ? legs
-- ? gonads
 
 As far as his personality goes, I have no idea. Caroline is mostly a self-insert or a reflection of myself. CJ is a part of me that I rarely identify with.
 

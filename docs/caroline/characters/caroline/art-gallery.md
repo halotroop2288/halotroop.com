@@ -1,3 +1,13 @@
+---
+title: Caroline's Art Gallery
+description: Check out this art of Caroline!
+authors: halotroop2288
+         Zaezar
+         FelisRandomis
+         Felians_art
+         ArtsGalinn
+---
+
 # Caroline's Art Gallery
 
 This is a gallery of images of [my fursona, Caroline](/caroline/characters/caroline). Enjoy!

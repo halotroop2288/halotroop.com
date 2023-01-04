@@ -20,7 +20,7 @@ Now, she's officially a character of Basuoland.
 
 ## Characteristics
 
-- ??? dog
+- <!-- TODO --> dog
 - she/her
 - blue fur (#5579C1)
 - white fluff (#D9CACE)

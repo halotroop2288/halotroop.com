@@ -39,6 +39,7 @@ If none of that suits your fancy, you can still follow me on social media, below
       - [@halotroop2288@tech.lgbt](https://tech.lgbt/web/@halotroop2288)
       - [@halotroop2288@newgrounds.com](https://halotroop2288.newgrounds.com/)
       - [@halotroop2288@spacehey.com](https://spacehey.com/halotroop2288)
+      - [@halotroop2288@patreon.com](https://patreon.com/halotroop2288)
 
 <!-- Static Links -->
 

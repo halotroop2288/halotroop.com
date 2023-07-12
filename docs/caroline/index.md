@@ -10,12 +10,12 @@ My [pronouns] are She/Her.
 But I'd prefer if you'd just *not* refer to me indirectly, where possible.
 
 I am a virtual sandbox enthusiast.
-I used to mod games (mostly Minecraft), and designed my own games sometimes.
-But [I never found any happiness in it.](projects/dead/#Retirement_from_programming)
+I used to make mods for Minecraft, but [I've never found any happiness in it.](projects/dead)
 
 This section is about me, myself, and I. A sort of introduction to me.
-In the following sections, you can find out more about my life by following me on my social medias below.
-<!-- reading my [blog], -->
+In the following sections, you can find out more about my life by
+<!-- reading my [blog], and --> following me on my social medias below.
+
 Check out [my fursona] and other characters,
 and reading about my [projects](projects),
 both the alive, and the [dead](projects/dead)!
@@ -59,15 +59,3 @@ If none of that suits your fancy, you can still follow me on social media, below
 [blog]:/caroline/blog
 [my fursona]:/caroline/characters/caroline
 [pronouns]:https://pronouns.page/@halotroop2288
-
-<!-- Scripts --->
-
-<script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
-<script>
-  kofiWidgetOverlay.draw('halotroop2288', {
-    'type': 'floating-chat',
-    'floating-chat.donateButton.text': 'Donate',
-    'floating-chat.donateButton.background-color': '#601A6C',
-    'floating-chat.donateButton.text-color': '#fff'
-  });
-</script>

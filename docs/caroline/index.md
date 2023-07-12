@@ -14,9 +14,9 @@ I used to mod games (mostly Minecraft), and designed my own games sometimes.
 But [I never found any happiness in it.](projects/dead/#Retirement_from_programming)
 
 This section is about me, myself, and I. A sort of introduction to me.
-In the following sections, you can find out more about my life by
+In the following sections, you can find out more about my life by following me on my social medias below.
 <!-- reading my [blog], -->
-checkout out [my fursona] and other characters,
+Check out [my fursona] and other characters,
 and reading about my [projects](projects),
 both the alive, and the [dead](projects/dead)!
 
@@ -31,18 +31,43 @@ If none of that suits your fancy, you can still follow me on social media, below
     If you feel so inclined, you can follow me on social media,
     where I will make updates far more frequently, as it takes way less effort!
 
-    I used to be very active on [Twitter](https://twitter.com/ha1otroop2288),
-    but with the way things are going in November 2022,
-    I won't be for much longer! Try Mastodon!
+    I used to use Twitter, but after it was bought by Elongated Muskrat, the site became unusable, and the site policies became transphobic. Join the Fediverse today!
 
-      - [@halotroop2288@meow.social](https://meow.social/web/@halotroop2288)
-      - [@halotroop2288@tech.lgbt](https://tech.lgbt/web/@halotroop2288)
-      - [@halotroop2288@newgrounds.com](https://halotroop2288.newgrounds.com/)
-      - [@halotroop2288@spacehey.com](https://spacehey.com/halotroop2288)
-      - [@halotroop2288@patreon.com](https://patreon.com/halotroop2288)
+      <a href="https://meow.social/@halotroop2288" title="Meow.Social">
+        <img style="height: 32px" src="./images/meow.social.png" alt="">
+        meow.social
+      </a>
+      <a href="https://tech.lgbt/@halotroop2288" title="Tech.LGBT">
+        <img style="height: 32px" src="./images/tech.lgbt.png" alt="">
+        tech.lgbt
+      </a>
+      <a href="https://halotroop2288.newgrounds.com" title="Newgrounds">
+        <img style="height: 32px" src="./images/newgrounds.png" alt="">
+        newgrounds.com
+      </a>
+      <a href="https://spacehey.com/halotroop2288" title="Spacehey">
+        <img style="height: 32px" src="./images/spacehey.png" alt="">
+        spacehey.com
+      </a>
+      <a href="https://patreon.com/halotroop2288" title="Patreon">
+        <img style="height: 32px" src="./images/patreon.png" alt="">
+        patreon.com
+      </a>
 
-<!-- Static Links -->
+<!-- Static Links --->
 
 [blog]:/caroline/blog
 [my fursona]:/caroline/characters/caroline
 [pronouns]:https://pronouns.page/@halotroop2288
+
+<!-- Scripts --->
+
+<script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
+<script>
+  kofiWidgetOverlay.draw('halotroop2288', {
+    'type': 'floating-chat',
+    'floating-chat.donateButton.text': 'Donate',
+    'floating-chat.donateButton.background-color': '#601A6C',
+    'floating-chat.donateButton.text-color': '#fff'
+  });
+</script>

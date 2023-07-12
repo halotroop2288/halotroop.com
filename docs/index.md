@@ -37,3 +37,15 @@ they may include a license in the header.
 
 <a rel="me" href="https://tech.lgbt/@halotroop2288"></a>
 <a rel="me" href="https://meow.social/@halotroop2288"></a>
+
+<!-- Scripts --->
+
+<script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
+<script>
+  kofiWidgetOverlay.draw('halotroop2288', {
+    'type': 'floating-chat',
+    'floating-chat.donateButton.text': 'Donate',
+    'floating-chat.donateButton.background-color': '#601A6C',
+    'floating-chat.donateButton.text-color': '#fff'
+  });
+</script>

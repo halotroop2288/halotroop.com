@@ -73,6 +73,8 @@ nav:
       - Dead:
         - projects/dead/index.md
         - Fabricators' Construct: projects/dead/fconstruct.md
+        - Litecraft: projects/dead/litecraft.md
+      - Untitled Block Game: projects/untitled-block-game.md
   - Caroline:
     - caroline/index.md
     - Characters:

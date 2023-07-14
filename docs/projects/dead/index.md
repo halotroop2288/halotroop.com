@@ -4,7 +4,7 @@ Me, when I start lots of projects,
 and they never gain support,
 and I never work on them:
 
-![Some of you may die, but that's a sacrifice I'm willing to make.](images/some_of_you_may_die.jpg)
+![Some of you may die, but that's a sacrifice I'm willing to make.](images/some_of_you_may_die.jpg "Farquad meme: "Some of you may die, but that's a sacrifice I'm willing to make"")
 
 !!! info "Projects"
     ??? info "Games"

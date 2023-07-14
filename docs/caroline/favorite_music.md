@@ -139,7 +139,7 @@ for [music playlists](https://www.youtube.com/@halotroop2288/playlists)!
         <a href="http://www.neilcic.com/mouthdreams">Mouth Dreams</a>
     </iframe>
 
-<!-- Static links --->
+<!-- Static links -->
 
 [Dunderpatrullen]:https://dunderpatrullen.bandcamp.com
 [2 Mello]:https://2mellomakes.bandcamp.com

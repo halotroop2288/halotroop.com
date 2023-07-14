@@ -1,5 +1,5 @@
 site_name: halotroop.com
-repo_url: https://github.com/halotroop2288/halotroop.github.io
+repo_url: https://github.com/halotroop2288/halotroop.com
 theme:
   name: material
   favicon: images/avatar.png
@@ -28,6 +28,8 @@ theme:
     - navigation.instant
     - navigation.tabs
     - navigation.indexes
+extra_css:
+  - extra.css
 markdown_extensions:
   - admonition
   - attr_list
@@ -88,6 +90,8 @@ nav:
         - caroline/characters/cara/index.md
       - Samantha:
         - caroline/characters/sam/index.md
+    - Stuff I Enjoy:
+      - Favorite Music: caroline/favorite_music.md
     - Projects:
       - caroline/projects/index.md
       - Basuoland: caroline/projects/basuoland.md
@@ -102,5 +106,3 @@ nav:
     - btu/index.md
     - Projects:
       - Apron: btu/projects/apron/index.md
-extra:
-  manifest: manifest.webmanifest

@@ -2,7 +2,9 @@
 
 I make videos sometimes!
 
-Instead of hosting them all [on YouTube](https://www.youtube.com/channel/UCMR7J9btPbUCeibSFT0spoA), I'm gonna host a backup here since I'm already paying for Git LFS!
+Instead of hosting them all [on YouTube](https://www.youtube.com/@halotroop2288)
+or [on Peertube](https://video.hardlimit.com/c/halotroop2288/),
+I'm gonna host a few of them here, since I'm already paying for Git LFS!
 
 # Speedruns
 
@@ -15,7 +17,7 @@ and [The Legend of Zelda: A Link to the Past.](https://speedrun.com/alttp)
 ## A Link to the Past Any% (Major Glitches) - 4:18
 
 <video controls="" preload="metadata">
-    <source src="https://media.githubusercontent.com/media/halotroop2288/halotroop.github.io/main/docs/caroline/videos/alttp_4_18.mp4" type="video/mp4">
+    <source src="https://media.githubusercontent.com/media/halotroop2288/halotroop.com/main/docs/caroline/videos/alttp_4_18.mp4" type="video/mp4">
     <b><i>Your browser does not support the <code>video</code> tag</i></b>
 </video>
 
@@ -29,7 +31,7 @@ I managed to get a 3:18 on this run, and I uploaded it to [YouTube](https://yout
 ## Dad Gets A Personal Best in ALTTP - 4:13
 
 <video controls="" preload="metadata">
-    <source src="https://media.githubusercontent.com/media/halotroop2288/halotroop.github.io/main/docs/caroline/videos/alttp_dad_4_13.mp4" type="video/mp4">
+    <source src="https://media.githubusercontent.com/media/halotroop2288/halotroop.com/main/docs/caroline/videos/alttp_dad_4_13.mp4" type="video/mp4">
     <b><i>Your browser does not support the <code>video</code> tag</i></b>
 </video>
 
@@ -45,7 +47,7 @@ I uploaded this run to [YouTube](https://www.youtube.com/watch?v=aGeKC2xz5iI) to
 ## A Link to the Past Any% (Major Glitches) - 3:11
 
 <video controls="" preload="metadata">
-    <source src="https://media.githubusercontent.com/media/halotroop2288/halotroop.github.io/main/docs/caroline/videos/alttp_3_11.mp4" type="video/mp4">
+    <source src="https://media.githubusercontent.com/media/halotroop2288/halotroop.com/main/docs/caroline/videos/alttp_3_11.mp4" type="video/mp4">
     <b><i>Your browser does not support the <code>video</code> tag</i></b>
 /video>
 

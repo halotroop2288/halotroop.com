@@ -2,19 +2,18 @@
 
 Hi, I'm Caroline, and this is my website. :caroline-smile:
 
-I'm a non-binary trans woman
-who used to make Minecraft mods,
-and (tried) to make video games.
+I'm a non-binary trans woman who used to make Minecraft mods,
+and I (try to) make video games.
 
 My [pronouns] are She/Her.
 But I'd prefer if you'd just *not* refer to me indirectly, where possible.
 
 I am a virtual sandbox enthusiast.
-I used to make mods for Minecraft, but [I've never found any happiness in it.](projects/dead)
+I used to make mods for Minecraft, but [I've never found any happiness in it](projects/dead).
 
 This section is about me, myself, and I. A sort of introduction to me.
 In the following sections, you can find out more about my life by
-<!-- reading my [blog], and --> following me on my social medias below.
+<!-- reading my [blog], and --> following me on my social media pages below.
 
 Check out [my fursona] and other characters,
 and reading about my [projects](projects),

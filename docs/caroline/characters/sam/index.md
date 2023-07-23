@@ -6,11 +6,13 @@ authors: halotroop2288
 
 Sam is a character that once upon a time had a somewhat thought-out backstory.
 This back-story was deleted as it was only posted in my archived Discord server,
-which was deleted when my acccount was stolen by a well-known 
+which was deleted when my acccount was stolen by a now well-known malware.
 
-This art was made by someone on Facebook before I stopped using it and deactivated my account.
-I don't remember the person's name, unfortunately. But here is my digitized, colored version:
-![A headshot of a light blue dog with green eyes and prominent very dark blue eyebrows and white fluff](images/sam_by_unknown.png "Sam is a Furry - ???, halotroop2288 - February 2017, November 2017")
+This art was made by a kind artist on Facebook before I stopped using it and deactivated my account.
+I don't remember the artist's name, unfortunately. But their signature is left in-tact, untouched.
+Here is my digitized, colored version:
+
+![Sam is a Furry - ???, halotroop2288 - February 2017, November 2017](images/sam_by_unknown.png "A headshot of a light blue dog with green eyes and prominent very dark blue eyebrows and white fluff")
 
 This drawing was actually the basis for the entire character,
 after the person it was based on refused to take ownership of it.

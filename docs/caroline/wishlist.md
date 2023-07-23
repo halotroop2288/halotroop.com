@@ -1,4 +1,8 @@
-# Caroline's Wishlist
+---
+title: Caroline's Wishlist
+description: See what Caroline wants for her birthday.
+authors: halotroop2288
+---
 
 I usually use a site called Wishlist.com, but it's slow and clunky,
 and it doesn't allow me to customize the page how I'd like to.
@@ -6,14 +10,42 @@ So why not just move it all to here?
 
 (Well I can think of one reason, but I'm doing this anyway)
 
-## Blu-Ray Collection
+## Video Games
 
-These box sets would be awesome to have on my shelf.
+You can find my digital game wishlists on [GOG](https://www.gog.com/en/u/CarolineJoyBell/wishlist),
+[Steam](https://steamcommunity.com/id/halotroop2288/wishlist),
+and [Itch.io](https://itch.io/c/3250934/carolines-wishlist).
+
+For games I wish to get physical copies of, I'll put them here:
+
+??? "List"
+    There's nothing here yet.
+
+## Music
+
+You can find my digital music wishlist on [Bandcamp](https://bandcamp.com/halotroop2288/wishlist).
+
+For music I wish to get physical copies of (Vinyl, CDs, read-only flash), I'll put them here:
+
+??? "List"
+    - [ ] [**Fight With Tools - Flobots**](https://www.merchbar.com/rock-alternative/flobots/flobots-fight-with-tools)<br>
+        ![Vinyl](https://merchbar.imgix.net/product/4/1616/13701277/602517730557.jpg "Vinyl cover art")
+    - [ ] [**Circle in the Square - Flobots**](https://www.merchbar.com/rock-alternative/flobots/flobots-circle-in-the-square-cd)<br>
+        ![CD](https://merchbar.imgix.net/product/4/1616/18582147/016351630124.jpg "CD cover art")
+    - [ ] [**Flobots Present: Platypus**](https://www.merchbar.com/rock-alternative/flobots/flobots-present-platypus-cd)
+        ![CD](https://merchbar.imgix.net/product/cdified/upc/57/837101095723.jpg "CD promo")
+
+## Movies
+
+I usually do all my movie watching through streaming, but at times that can be impossible to do.
+Here's a collection of movies I wouldn't mind having physical copies of.
+
+These Blu-Ray box sets would be awesome to have on my shelf.
 I actually plan on getting them myself if nobody else does,
 because I need offline media I can consume when the internet is out
 (which happens a lot at my dad's house).
 
-???+ "List"
+??? "List"
     ### Full series collections
     I love to have the full set of all of my favorite things. Here's a few that would make a great start.
 

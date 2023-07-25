@@ -1,3 +1,7 @@
 .md-main__inner {
     max-width: 90% !important;
 }
+
+img, image {
+    max-height: 675px;
+}

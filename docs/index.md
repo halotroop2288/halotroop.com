@@ -1,5 +1,6 @@
 !!! warning "This website is under construction!"
-    I don't have a lot of time to work on this, between work and depression.
+    I am actively working on this website,
+    but many pages may be incomplete or missing information at this time.
 
 # Welcome to Halotroop.com
 

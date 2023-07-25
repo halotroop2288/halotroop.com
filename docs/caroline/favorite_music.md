@@ -137,7 +137,7 @@ If you want to see all the music I wish to own, check out my [music wishlist](/c
     </iframe>
 </div>
 
-=== "The Mouth Experience on SoundCloud"
+=== "The Mouth Experience"
     <iframe loading="lazy" style="width: 100%; height: 100px;"
         src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/146805680&amp;hide_related=true&amp;show_artwork=true">
         <a href="https://www.neilcic.com/mouthsounds">Mouth Sounds</a>

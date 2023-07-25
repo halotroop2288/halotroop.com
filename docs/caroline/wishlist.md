@@ -1,6 +1,6 @@
 ---
 title: Caroline's Wishlist
-description: See what Caroline wants for her birthday.
+description: See what Caroline wants for her birthday, and other dreams and wishes.
 authors: halotroop2288
 ---
 
@@ -18,7 +18,7 @@ and [Itch.io](https://itch.io/c/3250934/carolines-wishlist).
 
 For games I wish to get physical copies of, I'll put them here:
 
-??? "List"
+??? info "List"
     There's nothing here yet.
 
 ## Music
@@ -27,7 +27,7 @@ You can find my digital music wishlist on [Bandcamp](https://bandcamp.com/halotr
 
 For music I wish to get physical copies of (Vinyl, CDs, read-only flash), I'll put them here:
 
-??? "List"
+??? info "List"
     - [ ] [**Fight With Tools - Flobots**](https://www.merchbar.com/rock-alternative/flobots/flobots-fight-with-tools)<br>
         ![Vinyl](https://merchbar.imgix.net/product/4/1616/13701277/602517730557.jpg "Vinyl cover art")
     - [ ] [**Circle in the Square - Flobots**](https://www.merchbar.com/rock-alternative/flobots/flobots-circle-in-the-square-cd)<br>
@@ -45,7 +45,7 @@ I actually plan on getting them myself if nobody else does,
 because I need offline media I can consume when the internet is out
 (which happens a lot at my dad's house).
 
-??? "List"
+??? info "List"
     ### Full series collections
     I love to have the full set of all of my favorite things. Here's a few that would make a great start.
 

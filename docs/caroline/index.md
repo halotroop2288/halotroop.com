@@ -16,13 +16,11 @@ by following me on my social media pages below.
 
 Check out [my fursona] and other characters,
 and reading about my [projects](projects),
-both the alive, and the [dead](projects/dead)!
-
+both the alive, and the [dead](projects/dead)!<br>
 There's also an [art gallery](art-gallery) of [my fursona], an experimental [videos] page,
 and in case you want to chat, [here's a link](https://rvlt.gg/EmND69QW)
-to my [Revolt](https://revolt.chat) guild.
-
-If none of that suits your fancy, you can still follow me on social media, below.
+to my [Revolt](https://revolt.chat) guild.<br>
+When you're done with that, you can follow me on social media, by using the links below.
 
 ??? info "Social Media"
     If you feel so inclined, you can follow me on social media,

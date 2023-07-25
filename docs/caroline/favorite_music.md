@@ -1,24 +1,30 @@
-# My Favorite Music
+---
+title: Caroline's Favorite Music
+description: Listen to Caroline's curated selection of music from various artists.
+authors: halotroop2288
+---
 
 Here, I'm just gonna embed some good music that I recommend.
 
 You can also check my [YouTube channel](https://www.youtube.com/@halotroop2288)
 for [music playlists](https://www.youtube.com/@halotroop2288/playlists)!
 
-# Chiptune
+If you want to see all the music I wish to own, check out my [music wishlist](/caroline/wishlist).
 
-## [Dunderpatrullen]
+## Chiptune
+
+### [Dunderpatrullen]
 
 <div style="text-align: center;">
-    <iframe loading="lazy" style="border: 0; width: 400px; height: 208px;" seamless
+    <iframe loading="lazy" style="border: 0; width: 700px; height: 208px;" seamless
         src="https://bandcamp.com/EmbeddedPlayer/album=3085541907/size=large/bgcol=242729/linkcol=08a2ff/artwork=small/transparent=true">
         <a href="https://music.dunderpatrullen.nu/album/call-me-katla-baby">Call Me Katla, Baby</a>
     </iframe>
 </div>
 
-# Funk
+## Funk
 
-## [2 Mello]
+### [2 Mello]
 
 <iframe loading="lazy" style="border: 0; width: 19%; height: 506px;" seamless
     src="https://bandcamp.com/EmbeddedPlayer/album=3279436434/size=large/bgcol=242729/linkcol=08a2ff/transparent=true">
@@ -45,7 +51,7 @@ for [music playlists](https://www.youtube.com/@halotroop2288/playlists)!
     <a href="https://2mellomakes.bandcamp.com/track/cold-rock-it-it-dont-stop-mix">cold rock it (it don't stop mix)</a>
 </iframe>
 
-## [Hideki Naganuma]
+### [Hideki Naganuma]
 
 <div style="text-align: center;">
     <iframe style="border: 0; width: 200px; height: 200px;" seamless
@@ -62,9 +68,9 @@ for [music playlists](https://www.youtube.com/@halotroop2288/playlists)!
     </iframe>
 </div>
 
-# Anarchy
+## Anarchy
 
-## [Flobots]
+### [Flobots]
 
 <iframe loading="lazy" style="border: 0; width: 24%" frameborder="0" allow="encrypted-media; picture-in-picture;" seamless
     src="https://www.youtube-nocookie.com/embed/5AjRxx5pFz4">
@@ -89,18 +95,28 @@ for [music playlists](https://www.youtube.com/@halotroop2288/playlists)!
     </iframe>
 </div>
 
-# Comedy
+## Comedy
 
-## [Lemon Demon] / [Neil Cicerega]
+### [Lemon Demon] / [Neil Cicerega]
 
 === "Damn Skippy"
-    <iframe loading="lazy" src="https://archive.org/embed/damn-skippy-2005&playlist=1" style="width: 100%; height: 385px; border: 0" seamless>
-        <a href="https://archive.org/details/damn-skippy-2005">Damn Skippy</a>
-    </iframe>
+    <div style="display: flex; flex-direction: row;">
+        <image loading="lazy" style="height: 385px;"
+            src="https://archive.org/download/damn-skippy-2005/Damn%20Skippy%20(CD%20scan).jpg">
+        <iframe loading="lazy" style="width: 100%; height: 385px; border: 0;" seamless
+            src="https://archive.org/embed/damn-skippy-2005&playlist=1">
+            <a href="https://archive.org/details/damn-skippy-2005">Damn Skippy</a>
+        </iframe>
+    </div>
 === "Hip to the Javabean"
-    <iframe loading="lazy" src="https://archive.org/embed/Lemon_Demon_Hip_to_the_Javabean_2004&playlist=1" style="width: 100%; height: 385px; border: 0" seamless>
-        <a href="https://archive.org/details/Lemon_Demon_Hip_to_the_Javabean_2004">Damn Skippy</a>
-    </iframe>
+     <div style="display: flex; flex-direction: row;">
+        <image loading="lazy" style="height: 385px;"
+            src="https://archive.org/download/Lemon_Demon_Hip_to_the_Javabean_2004/Hip%20to%20the%20Javabean%20back.png">
+        <iframe loading="lazy" style="width: 100%; height: 385px; border: 0;" seamless
+            src="https://archive.org/embed/Lemon_Demon_Hip_to_the_Javabean_2004&playlist=1">
+            <a href="https://archive.org/details/Lemon_Demon_Hip_to_the_Javabean_2004">Damn Skippy</a>
+        </iframe>
+    </div>
 
 <div style="text-align: center;">
     <iframe loading="lazy" style="border: 0; width: 19%; height: 506px;" seamless
@@ -121,23 +137,57 @@ for [music playlists](https://www.youtube.com/@halotroop2288/playlists)!
     </iframe>
 </div>
 
-??? "The Mouth Experience on SoundCloud"
+=== "The Mouth Experience on SoundCloud"
     <iframe loading="lazy" style="width: 100%; height: 100px;"
         src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/146805680&amp;hide_related=true&amp;show_artwork=true">
-        <a href="http://www.neilcic.com/mouthsounds">Mouth Sounds</a>
+        <a href="https://www.neilcic.com/mouthsounds">Mouth Sounds</a>
     </iframe>
     <iframe loading="lazy" style="width: 100%; height: 100px;"
         src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/159460184&amp;hide_related=true&amp;show_artwork=true">
-        <a href="http://www.neilcic.com/mouthsounds">Mouth Silence</a>
+        <a href="https://www.neilcic.com/mouthsounds">Mouth Silence</a>
     </iframe>
     <iframe loading="lazy" style="width: 100%; height: 100px;"
         src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/304209955&amp;hide_related=true&amp;show_artwork=true">
-        <a href="http://www.neilcic.com/mouthmoods">Mouth Moods</a>
+        <a href="https://www.neilcic.com/mouthmoods">Mouth Moods</a>
     </iframe>
     <iframe loading="lazy" style="width: 100%; height: 100px;"
         src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/902235112&amp;hide_related=true&amp;show_artwork=true">
-        <a href="http://www.neilcic.com/mouthdreams">Mouth Dreams</a>
+        <a href="https://www.neilcic.com/mouthdreams">Mouth Dreams</a>
     </iframe>
+
+## Breakcore / Jungle
+
+...or whatever you want to call this shit. Genre is a fuck.
+
+### [Sewerslvt]
+
+=== "Child Sacrifice"
+    <div style="display: flex; flex-direction: row;">
+        <image loading="lazy" style="height: 132px;"
+            src="https://archive.org/download/05.-the-grilled-fish-s-ballad/cover.jpg">
+        <iframe loading="lazy" style="min-width: 664px; width: 100%; max-width: 810px; height: 132px; border: 0;" seamless
+            src="https://archive.org/embed/05.-the-grilled-fish-s-ballad&playlist=1">
+            <a href="https://archive.org/details/05.-the-grilled-fish-s-ballad">Child Sacrifice</a>
+        </iframe>
+    </div>
+=== "The World is Fvcked"
+    <div style="display: flex; flex-direction: row;">
+        <image loading="lazy" style="height: 132px;"
+            src="https://archive.org/download/the-world-is-fvcked-pb97xw/cover_itemimage.jpg">
+        <iframe loading="lazy" style="min-width: 664px; width: 100%; max-width: 810px; height: 132px; border: 0;" seamless
+            src="https://archive.org/embed/the-world-is-fvcked-pb97xw&playlist=1">
+            <a href="https://archive.org/details/the-world-is-fvcked-pb97xw">The World is Fvcked</a>
+        </iframe>
+    </div>
+=== "Skitzofrenia Simulation"
+    <div style="display: flex; flex-direction: row;">
+        <image loading="lazy" style="height: 132px;"
+            src="https://archive.org/download/sewerslvt-skitzofrenia-simulation/cover.jpg">
+        <iframe loading="lazy" style="min-width: 664px; width: 100%; max-width: 810px; height: 132px; border: 0;" seamless
+            src="https://archive.org/embed/sewerslvt-skitzofrenia-simulation&playlist=1">
+            <a href="https://archive.org/details/sewerslvt-skitzofrenia-simulation">Skitzofrenia Simulation</a>
+        </iframe>
+    </div>
 
 <!-- Static links -->
 
@@ -147,3 +197,4 @@ for [music playlists](https://www.youtube.com/@halotroop2288/playlists)!
 [Flobots]:https://flobots.bandcamp.com
 [Lemon Demon]:https://lemondemon.bandcamp.com
 [Neil Cicerega]:http://www.neilcic.com
+[Sewerslvt]:https://sewerslvt.bandcamp.com

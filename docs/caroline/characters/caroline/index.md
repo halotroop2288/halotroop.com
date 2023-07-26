@@ -7,7 +7,12 @@ authors: halotroop2288
 Caroline, quite simply, is my fursona. She's been developing in my mind for quite some time.
 The earliest memories I have of developing her as a character were from when I was a pre-teen.
 
-## Adolescence
+## Character Development
+
+Caroline is a constantly evolving character.
+It took years for her to reach her current design, and I'm not done yet!
+
+### Adolescence
 
 My hormonal changes from my [first puberty](https://lexicon.library.lgbt/definitions/second-puberty/)
 played a large part in the development of her as a character.
@@ -17,16 +22,17 @@ in-touch with my identity. At the time, I didn't know my sexuality, didn't have 
 on my ideology, and I certainly didn't have a grasp of my gender.
 In short, I was young, and still finding myself.
 
-At the time, Caroline as a character...
+At the time, Caroline as a character had these qualities:
 
-- Is female
-- Had red hair
-- Had blue eyes
-- Wore a red dress
+- Female
+- Red hair
+- Blue eyes
+- Wears a red dress
 
-There was nothing more to her at that point.
+There was nothing more to her at that point. I never drew her, I mostly used her as a character in games.
+This was just how I liked to customize my character in most games.
 
-## Gaming
+### Gaming
 
 I have always used Caroline as my in-game character whenever customization is possible in
 a video game. Using "myself" always felt strange and uncomfortable.
@@ -40,15 +46,15 @@ Years of playing with this character taught me exactly what I wanted her to be:
 - Blue eyes
 - Red clothing, more specifically a dress if possible<br/>
   This is because red was my favorite color for the longest time.<br/>
-  Now, my favorite color is purple.
+  (Now, my favorite color is purple.)
 - Slightly pointed jaw
 
 ---
 
-This is ***my*** first drawing of *Caroline*. She didn't have a name at the time.
+This is ***my*** first drawing of *Caroline*. This character didn't have a name at the time.
 I was just getting into furry art, and barely knew what the furry fandom was.
 
-![A neko girl wearing a dark green hoodie and blue jeans, her hair is a dark brown that almost matches her hoodie, and her cat ears match her hair, there's a highlight on the tip of her tail that almost looks like a color splotch](images/fur0_old_by_caroline.jpg "Fur 0 (old) - Caroline - 201X")
+![Fur 0 (old) - Caroline - 2015](images/fur0_old_by_caroline.jpg "A neko girl wearing a dark green hoodie and blue jeans, her hair is a dark brown that almost matches her hoodie, and her cat ears match her hair, there's a highlight on the tip of her tail that almost looks like a color splotch")
 
 This is probably some of my best work, since I never put in the time to learn how to draw.
 I'm quite proud of what I could make at the time. These days I can barely trace a drawing.<br/>
@@ -111,7 +117,7 @@ my "ideal woman" and that's just icky to me, now.
     I never uploaded or archived those pieces, so you'll just have to take my word for it.
     The art that I did upload to [DeviantArt] later was not watermarked.
 
-## My first game
+### My first game
 
 When I started making my own game [Basuoland],
 I chose to insert her into that game too.
@@ -122,15 +128,15 @@ So I always insert this same character into any given scenario.
 !!! info "Continue"
     :arrow_right: Continued in [Basuoland: Characters](/caroline/projects/basuoland#characters).
 
-## The character designer
+### The character designer
 
 Up to this point, I still did not have a concrete representation of my fursona.
 Some people in the furry community offered to draw her for me, but I never had a clear idea
 of what she should look like.
 
-Enter: [Zaezar](https://zaezardraws.com), the profession character designer, and furry artist.
+*Enter: [Zaezar],* the profession character designer and furry artist.
 
-I discovered Zaezar on YouTube, where he had a series of tutorials about drawing anthro characters.
+I discovered [Zaezar] on YouTube, where he had a series of tutorials about drawing anthro characters.
 I followed him on Twitch for some time, and became a regular member of his community.
 
 One day, I came into a larger-than-usual amount of money and decided (regrettably) to commission
@@ -141,27 +147,50 @@ He drew it oh his live stream, so I got to watch and weigh in on every detail. H
 decide which features were good to keep, what should be added to make it more interesting,
 and which ones should be changed, to look nicer.
 
-In the end, he came up with this, and I love it:
-![Caroline's reference sheet by Zaezar](images/reference_by_zaezar.png)
+In the end, he came up with this, and I love it:<br>
+![Caroline's reference sheet by Zaezar](images/reference_by_zaezar.png "Three headshots, one giving a sexy side-eye, one smirking to the side, and one with a happy open-mouth grin. Two full-body illustrations, one from the front side, with wings, one from the back, without wings. Lots of text describing the character is scattered around. See the characteristics section below for a better image description")
 
 ## Characteristics
 
 After all that, here's what we know about Caroline...
 
+### Physical
+
 - Angel cat
+- 5ft 8in <!-- Considering changing this in a redesign -->
+- Red fur (#CE221C)
+- Dark red hair (#730E0A)
+- Has a blue streak in her hair (#4E1BEC)
+- Blue eyes (#522BFF) that are lighter (#8266FF) in the center
+- Has a "Lenny" face tattoo on her left butt cheek
+- Tail is the same fur color except for the tip, which matches the bottom of her feet (#A00500)
+- Gradient of a darker red (#A00500) from the bottom of her feet to half-way up her calves.
+- Pink inner mouth (#E95994)
+- Pink tongue (#ED7CAB)
+- Always wears a black collar (#1F1F1F) with a heart pendant,
+so much that it leaves a visible dark mark underneath (#A00500)
+- Heart pendant changes color based on mood, but you can use purple (#A700FD) as a default
+    - **Purple:** Calm / Indifferent
+    - **Red:** Horny / Lovey / Angry / Enraged
+    - **Light Green:** Devious / Defiant
+    - **Dark Green:** Envious / Jealous
+    - **Light Blue:** Happy / Silly
+    - **Dark Blue:** Sad / Lonely
+    - **Dark Grey:** Depressed
+    - **Black:** Dead
+
+??? message "Mood Pendant Edits"
+    Here's a more accurate representation of the mood pendant on Caroline's collar:<br>
+    ![Mood Pendant Headshots, edit by halotroop2288](images/mood_pendant.png "Edit of the three headshots from Caroline's reference sheet above, but the side-eye headshot has a red pendant, the smirk has a light green pendant, and the smile has a light blue pendant")
+
+### Social / Mental
+
 - she/her
-- Red fur (#ce221c)
-- Dark red hair (#730e0a)
-- Has a blue streak in her hair (#4e1bec)
-- Has blue eyes (#522bff)
-- Eyes are lighter (#8266ff) in the center
 - Favorite color: purple (#601A6C)
-- Neutral good
-- Always wears a black collar (#1f1f1f) with a heart pendant
-- Heart pendant changes color based on mood, but you can use purple (#a700fd) as a default
+- Neutral-good, short fuse, loving, lewd, adventurous
 
 ??? info "Dungeons and Dragons"
-    If Caroline were a 5th Edition DnD character, this would be her stats:<br/>
+    If Caroline were a 5th Edition DnD character, this would be her stats:
 
     **[Caroline the Tabaxi](https://chicken-dinner.com/5e/5e-point-buy.html#tabaxi&NA&11&12&10&14&10&15&0&0&27&15&8&19&15&12&9&7&5&4&3&2&1&0&1&2&4&6&9&4&4&4&4&4&4)**
 
@@ -186,3 +215,4 @@ After all that, here's what we know about Caroline...
 [Violet]:../violet
 [Basuoland]:../basuoland
 [DeviantArt]:https://www.deviantart.com/halotroop2288
+[Zaezar]:https://zaezardraws.com

@@ -1,4 +1,8 @@
-# Mo' Creatures Refabricated
+---
+title: Mo' Creatures Refabricated
+description: Read about Caroline's attempt to port Mo' Creatures to Fabric.
+authors: halotroop2288
+---
 
 [Mo' Creatures](https://www.mocreatures.org/) was a mod by Dr. Zhark
 that added lots of animals and other creatures to the game.<br/>
@@ -8,7 +12,8 @@ It had its source code released under
 I was porting it to [Fabric] while I waited for the original creator of
 [More Creeps and Weirdos](/caroline/projects/dead/morecreeps) to respond
 to me about the licensing of that mod.
-But ultimately, [I lost interest in working](/caroline/projects/dead#Retirement_from_programming) on both of the mods.
+But ultimately, I lost interest in working on both of the mods
+(And in [modding in general](/caroline/projects/dead/#2022-hiatus-from-programming)).
 
 My original goal was to first port all the creatures that had not yet made it
 into vanilla Minecraft through updates. Then, if I finished those, vanilla

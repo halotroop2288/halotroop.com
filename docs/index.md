@@ -4,10 +4,10 @@
 
 # Welcome to Halotroop.com
 
-This website is all about [Caroline](/caroline), our organization, and [our projects](/projects).
+This website is all about [Caroline](/caroline), the [halotroop] organization, and [our projects](/projects).
 
-Up at the top you'll find navigation to general topics.
-Over on the left you'll be able to navigate to specific pages.
+Up at the top you'll find navigation to different categories.
+Over on the left you'll be able to navigate to specific pages in those categories.
 
 **If you are not fully supportive of trans people,
 or have anything against furries, then leave this site immediately.
@@ -17,11 +17,11 @@ Click the button in the top right to submit contributions to this website!
 
 ## Contribution Rights
 
-If you can improve documentation articles, I fully welcome your contributions.
-My personal articles (written by myself, about myself) are to be maintained only by me.
+If you can improve documentation articles, we fully welcome your contributions.
+Personal articles (written by [Caroline], about herself) are to be maintained only by [Caroline].
 
-With that said, this website is one of the few things I retain full copyright to.
-I do not release any of the content here under any sort of open-source license.
+With that said, this website is one of the few things Caroline retains full copyright to.
+We do not release any of the content here under any sort of open-source license.
 This includes the articles, images, and other original assets.
 
 ### Exceptions
@@ -38,3 +38,7 @@ they may include a license in the header.
 
 <a rel="me" href="https://tech.lgbt/@halotroop2288"></a>
 <a rel="me" href="https://meow.social/@halotroop2288"></a>
+
+<!-- Static links -->
+[halotroop]:https://github.com/halotroop
+[Caroline]:/caroline

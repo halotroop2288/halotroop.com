@@ -30,6 +30,8 @@ theme:
     - navigation.indexes
 extra_css:
   - extra.css
+extra_javascript:
+  - extra.js
 markdown_extensions:
   - admonition
   - attr_list

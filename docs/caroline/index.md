@@ -46,9 +46,8 @@ Or in case you want to chat, there are ways to contect me below as well.
       <img style="height: 32px" src="./images/meow.social.png" alt="">
       meow.social
     </a>
-    <a href="https://tech.lgbt/@halotroop2288" title="Tech.LGBT">
-      <img style="height: 32px" src="./images/tech.lgbt.png" alt="">
-      tech.lgbt
+    <a href="https://techhub.social/@halotroop2288" title="TechHub.Social">
+      techhub.social
     </a>
     <a href="https://halotroop2288.newgrounds.com" title="Newgrounds">
       <img style="height: 32px" src="./images/newgrounds.png" alt="">

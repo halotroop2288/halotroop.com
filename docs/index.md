@@ -1,8 +1,12 @@
+---
+title: Welcome
+description: Learn about the website itself.
+authors: halotroop2288
+---
+
 !!! warning "This website is under construction!"
     I am actively working on this website,
     but many pages may be incomplete or missing information at this time.
-
-# Welcome to Halotroop.com
 
 This website is all about [Caroline](/caroline), the [halotroop] organization, and [our projects](/projects).
 
@@ -36,7 +40,7 @@ they may include a license in the header.
 
 <!-- Mastodon Verification -->
 
-<a rel="me" href="https://tech.lgbt/@halotroop2288"></a>
+<a rel="me" href="https://techhub.social/@halotroop2288"></a>
 <a rel="me" href="https://meow.social/@halotroop2288"></a>
 
 <!-- Static links -->

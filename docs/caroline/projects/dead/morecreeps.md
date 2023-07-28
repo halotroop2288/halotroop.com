@@ -5,8 +5,7 @@ authors: halotroop2288
 ---
 
 This was an attempt to recreate the classic [Minecraft] mod,
-[More Creeps] [and Weirdos](http://morecreeps.com)
-for the [Fabric Mod Loader](https://fabricmc.net).
+[More Creeps and Weirdos](http://morecreeps.com) for the [Fabric Mod Loader](https://fabricmc.net).
 
 ## Background
 

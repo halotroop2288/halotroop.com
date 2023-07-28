@@ -183,7 +183,7 @@ so much that it leaves a visible dark mark underneath (#A00500)
     Here's a more accurate representation of the mood pendant on Caroline's collar:<br>
     ![Mood Pendant Headshots, edit by halotroop2288](images/mood_pendant.png "Edit of the three headshots from Caroline's reference sheet above, but the side-eye headshot has a red pendant, the smirk has a light green pendant, and the smile has a light blue pendant")
 
-### Social / Mental
+### Personality
 
 - she/her
 - Favorite color: purple (#601A6C)

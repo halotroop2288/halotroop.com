@@ -64,7 +64,7 @@ This one was part of a freebie stream, like many others.
     ![Blep (colored) - 2018](images/edits/blep_colored.png "Colored head shot of Caroline with her tongue out")
     ![Shine (colored) - 2018](images/edits/shine_colored.png "Colored head shot of Caroline looking up and to the right")
 
-![Sharp Intake of Breath - July 2018](images/what_by_zaezar.png "Head shot of Caroline with her mouth and eyes wide open, the text "Sharp Intake of Breath" is written next to her")
+[![Sharp Intake of Breath - July 2018](images/what_by_zaezar.png "Head shot of Caroline with her mouth and eyes wide open, the text "Sharp Intake of Breath" is written next to her")](https://www.deviantart.com/zaezardraws/art/Patreon-July-Freebs-754483702)
 
 ??? message "Personal Edit"
     This is an edit I made after Zaezar sent me this sketch.<br>
@@ -72,7 +72,7 @@ This one was part of a freebie stream, like many others.
     ![WHAT - July 2018](images/edits/what_colored.png "Colored head shot of Caroline screaming at the top of her lungs")<br>
     I now use this image attached to a cube as the official logo for the halotroop organization.
 
-This one came as a pair with my ex-boyfriend. I think they turned out pretty cute.<br>
+This one came as a pair with my boyfriend. I think they turned out pretty cute.<br>
 I just wish I had gotten the lines while they could still be had!<br>
 Click the image to see the source, if you'd like to see them together.
 
@@ -171,13 +171,13 @@ So they made me this as a "thank you" at their 2,000 follower milestone!
 Some art has been removed due to my negative relationship with the artist(s).<br>
 I'm sorry if you're disappointed about this, but this is how I want it to be.
 
-# Other art
+## Other art
 
 Some [pre-reference](#2017) art actually became [its own character](/caroline/characters/cj)!
 You can view all of his art in [CJ's Art Gallery](/caroline/characters/cj/art-gallery)
 
 
-# Disclaimer
+## Disclaimer
 
 All art featured on this page is the intellectual property of the original artist.
 

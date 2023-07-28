@@ -1,4 +1,8 @@
-# Video Archive
+---
+title: Video Archive
+description: See a few of the videos Caroline has archived from my YouTube channel
+authors: halotroop2288
+---
 
 I make videos sometimes!
 

@@ -12,7 +12,7 @@ It helped me further develop the back-stories for my characters,
 
 ## Characters
 
-Basuoland mainly follows the Bell family: [Caroline], [Violet], and [Ashely].
+Basuoland mainly follows the Bell family: [Caroline], [Violet], and [Ashley].
 
 ### Caroline Bell
 
@@ -22,7 +22,7 @@ In Basuoland, she is the main character, the single mother of [Violet] and [Ashl
 
 ### Ashley Bell
 
-[Ashley] is [Caroline]'s youngest daughter, a 10-year-old black cat with demonic wings.<br>
+[Ashley] is [Caroline]'s youngest daughter, a 10-year-old black cat with bat wings.<br>
 [Ashley] focuses on the study of destruction and illusion magic,
 and is often at odds with her older sister, [Violet] even before the events of the main story.
 

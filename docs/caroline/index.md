@@ -64,7 +64,7 @@ Or in case you want to chat, there are ways to contect me below as well.
 
 ??? message "Contact Me"
     If you'd like to contact me for business purposes, I can be reached at
-    [carolinejoybell@gmail.com](mailto://carolinejoybell@gmail.com "My email address").
+    [halotroop2288@proton.me](mailto://halotroop2288@proton.me "My email address").
 
     For private discussion of this website, please contact me at
     [admin@halotroop.com](mailto://admin@halotroop.com)

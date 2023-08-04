@@ -27,7 +27,7 @@ Now I dream of working at a smaller company on indie games or ports of existing 
 Check out [my fursona] and other characters,
 and reading about my [projects](projects),
 both the alive, and the [dead](projects/dead)!<br>
-There's also an [art gallery](art-gallery) of [my fursona], and an experimental [videos] page.<br>
+There's also an [art gallery](characters/caroline/art-gallery) of [my fursona], and an experimental [videos] page.<br>
 
 When you're done with that, you can follow me on social media, by using the links below.
 Or in case you want to chat, there are ways to contect me below as well.

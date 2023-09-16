@@ -1,6 +1,6 @@
 ---
 title: Ashley Bell
-description: Read all about my character Violet, youngest daughter of Caroline.
+description: Read all about my character Ashley, youngest daughter of Caroline.
 authors: halotroop2288
 ---
 
